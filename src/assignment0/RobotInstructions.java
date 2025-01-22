@@ -27,7 +27,7 @@ public class RobotInstructions  {
 		 * moves in response to the code you see below.
 		 * 
 		 * You will add instructions at the end of the code to cause the support.robot to move
-		 * as you desire.
+		 * as you desire. 
 		 */
 		//door
 		robot.forward(200);
